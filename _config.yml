@@ -74,6 +74,9 @@ author:
     - label: "Fediverse"
       icon: "fab fa-fw fa-mastodon"
       url: "https://fosstodon.org/@probablecause"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/probable_cause/"
 
 footer:
   links:
@@ -86,6 +89,9 @@ footer:
     - label: "Fediverse"
       icon: "fab fa-fw fa-mastodon"
       url: "https://fosstodon.org/@probablecause"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.io/probable_cause/"
 
 defaults:
   # _posts
